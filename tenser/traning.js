@@ -13,11 +13,6 @@ let labelList = [
 ]
 
 function preload() {
-//   $.getJSON( "", function( data ) {jQuery.parseJSON( '{ "name": "John" }' );
-// loaded_data =  jQuery.parseJSON(data);
-//
-// console.log('loding dadata' + data);
-// });
 
 
 loaded_data = loadJSON('col.json')
