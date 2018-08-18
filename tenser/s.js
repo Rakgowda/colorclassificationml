@@ -99,7 +99,7 @@ function gotData(results) {
 //*******************p5 function**********************
 // console.log(allData);
 
-saveJSON(allData,'col')
+//saveJSON(allData,'col')
 //  console.log(colorByLable);
   console.log('***');
 let col_name =Object.keys(colorByLable)
