@@ -5,11 +5,11 @@ let model;
 let labelP;
 let rslider,gslider,sslider;
 let labelList = [
-  'red',
-  'green',
-  'blue',
-  'green',
-  'pink'
+  "red",
+  "green",
+  "blue",
+  "green",
+  "pink"
 ]
 
 function preload() {
